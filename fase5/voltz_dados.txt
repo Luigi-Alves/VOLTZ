@@ -1,0 +1,16 @@
+=== SISTEMA VOLTZ - EXPORTAÇÃO DE DADOS ===
+Gerado em: 04/09/2026 17:49:32
+==================================================
+
+>> USUARIOS (ArrayList) <<
+ID=2|Nome=luigi|Email=luigi@teste|2FA=true|Tipo=PADRAO|Status=esta com o status normal
+
+>> ATIVOS CRIPTO (ArrayList) <<
+ID=1|Nome=Bitcoin|Simbolo=BTC|Preco=350000.00
+
+>> EMPRESAS (HashMap) <<
+ID=1|Nome=teste|CNPJ=00.000.000/0001-00|Saldo=51505.000
+
+>> TRANSACOES (HashMap) <<
+ID=100|Empresa=1|Ativo=1|Tipo=COMPRA|Qtd=2|ValorUnit=350000.00|DataHora=04/09/2026 17:49:32
+ID=200|Empresa=2|Ativo=3|Tipo=COMPRA|Qtd=10.0|ValorUnit=800.00|DataHora=04/09/2026 17:49:32
